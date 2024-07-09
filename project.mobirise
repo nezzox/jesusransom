@@ -75,8 +75,9 @@
     "gdpr": false,
     "sitemapSwitcher": "on",
     "imageResize": true,
-    "mbrsiteDomain": "t7fdfftfiq",
-    "canonical-url": false
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "mbrsiteDomain": "t7fdfftfiq"
   },
   "pages": {
     "index.html": {
